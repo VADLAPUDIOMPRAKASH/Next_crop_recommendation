@@ -79,8 +79,6 @@ This project is licensed under the **MIT License**.
 ## 🤝 Contributing
 We welcome contributions! Feel free to **fork the repository**, submit **pull requests**, or suggest **feature enhancements**.
 
-## 👤 Author
-🔹 **Vadlapudi Om Prakash**
 
 💡 _Let's make agriculture smarter with technology!_ 🌱
 
